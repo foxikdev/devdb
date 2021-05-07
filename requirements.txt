@@ -1,0 +1,4 @@
+npm (node.js)
+npm -> eslint (global)
+npm -> prettier (global)
+npm -> eslint-config-tesseract

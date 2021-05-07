@@ -1,0 +1,11 @@
+.env
+.eslintignore
+node_modules
+.eslintrc
+.eslintrc.json
+package-lock.json
+yarn.lock
+tests
+test
+*.md
+!README.md
